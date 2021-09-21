@@ -60,7 +60,7 @@
  
  ## Ссылки
  1. [Общий архив исследований по вело](http://xt.ht/phpbb/viewtopic.php?f=24&t=200833&fbclid=IwAR2WTDK3sgcmB9f9O78aYh__953emMFUlGkEJiXsITfhePfQR6w2epw7nlQ)
- 2. [Велоконцепция г. Харьков](http://kharkiv.rocks/reestr/653772?fbclid=IwAR1EP7U10QzhlCP_c7-64gnFJGhOHhvmugNoeSu3sctr69qxXK92kIFENbs)
+ 2. [Велоконцепция г. Харькова](http://kharkiv.rocks/reestr/653772?fbclid=IwAR1EP7U10QzhlCP_c7-64gnFJGhOHhvmugNoeSu3sctr69qxXK92kIFENbs)
  3. [Новость про зеленый каркасс](https://www.city.kharkov.ua/ru/news/igor-terekhov-rozpoviv-pro-proekt-zeleniy-karkas-47738.html)
 
 
