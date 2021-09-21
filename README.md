@@ -46,6 +46,10 @@
 
 
  ## Изображения на которые опиарлся
+Самая важная карта - показывает интенсивность движения по основным магистралям:  
+ <img src = "img/map3.jpeg">    
+
+ 
  <img src = "img/map2.jpeg">     
    
 <img src = "img/map4.jpeg">     
@@ -53,8 +57,7 @@
 
  <img src = "img/map1.gif">    
    
- <img src = "img/map3.jpeg">    
-
+ 
  ## Ссылки
  1. [Общий архив исследований по вело](http://xt.ht/phpbb/viewtopic.php?f=24&t=200833&fbclid=IwAR2WTDK3sgcmB9f9O78aYh__953emMFUlGkEJiXsITfhePfQR6w2epw7nlQ)
  2. [Велоконцепция г. Харьков](http://kharkiv.rocks/reestr/653772?fbclid=IwAR1EP7U10QzhlCP_c7-64gnFJGhOHhvmugNoeSu3sctr69qxXK92kIFENbs)
